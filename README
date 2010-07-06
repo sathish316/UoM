@@ -1,0 +1,5 @@
+UoM is a conversion library for Ruby
+
+It mixes methods to Fixnum and Float class for the domain of measurement
+so you can write code like 1.kilometer, 1.nm etc,
+or convert from 1 unit of measure to another by simply calling 5.cm.to_meter
