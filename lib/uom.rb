@@ -1,7 +1,7 @@
 require 'uom/to_meter'
 
 class Fixnum
-	include Uom::ToMeter
+  include Uom::ToMeter
 
 end
 
